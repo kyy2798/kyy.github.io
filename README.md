@@ -473,19 +473,19 @@
         
         // UPDATED COMBOS: SEMUA GAMBAR .JPG
         const COMBOS = [
-            { id: 'c1', name: "Choco Bomb", price: 13000, desc: "Donat cokelat lumer dengan topping cokelat chips.", img: "wmremove-transformed (1).jpg" },
-            { id: 'c2', name: "Berry Bliss", price: 13500, desc: "Glaze stroberi dengan potongan buah segar.", img: "Gemini_Generated_Image_slaf8zslaf8zslaf.jpg" },
-            { id: 'c3', name: "Matcha Crunch", price: 14000, desc: "Glaze matcha jepang dengan almond.", img: "Gemini_Generated_Image_g0at2bg0at2bg0at.jpg" },
-            { id: 'c4', name: "Tiramisu", price: 15000, desc: "Rasa kopi kuat dengan bubuk kakao.", img: "Gemini_Generated_Image_sstilesstilessti.jpg" },
+            { id: 'c1', name: "Choco Bomb", price: 13000, desc: "Donat cokelat lumer dengan topping cokelat chips.", img: "Gemini_Generated_Image_ukn3q8ukn3q 8ukn3_20260128_070810_0000.jpg" },
+            { id: 'c2', name: "Berry Bliss", price: 13500, desc: "Glaze stroberi dengan potongan buah segar.", img: "Gemini_Generated_Image_slaf8zslaf8zsl af_20260128_070729_0000.jpg" },
+            { id: 'c3', name: "Matcha Crunch", price: 14000, desc: "Glaze matcha jepang dengan almond.", img: "Gemini_Generated_Image_g0at2bg0at2b goat_20260128_070706_0000 .jpg" },
+            { id: 'c4', name: "Tiramisu", price: 15000, desc: "Rasa kopi kuat dengan bubuk kakao.", img: "Gemini_Generated_Image_sstilesstilesst i_20260128_070638_0000.jpg" },
 
             // MENU LAINNYA (Placeholder images)
-            { id: 'c5', name: "Cheese Meses", price: 11000, desc: "Glaze gula original dengan meses cokelat dan keju parut.", img: "https://picsum.photos/seed/donut5/300/200" },
-            { id: 'c6', name: "Choco Cashew", price: 16000, desc: "Glaze cokelat tebal dengan kacang mete dan remahan oreo.", img: "https://picsum.photos/seed/donut6/300/200" },
-            { id: 'c7', name: "White Berry", price: 15000, desc: "Glaze cokelat putih manis dengan oreo dan stroberi segar.", img: "https://picsum.photos/seed/donut7/300/200" },
-            { id: 'c8', name: "Banana Split", price: 13000, desc: "Glaze stroberi dengan potongan pisang dan sprinkles ceria.", img: "https://picsum.photos/seed/donut8/300/200" },
-            { id: 'c9', name: "Blueberry Crunch", price: 13500, desc: "Glaze blueberry asam manis dengan sereal dan white choco chips.", img: "https://picsum.photos/seed/donut9/300/200" },
-            { id: 'c10', name: "Salted Caramel Pecan", price: 16000, desc: "Caramel asin gurih dengan kacang mete dan choco chips.", img: "https://picsum.photos/seed/donut10/300/200" },
-            { id: 'c11', name: "Double Cheese Oreo", price: 15000, desc: "Double keju (glaze & parut) dengan topping oreo crunchy.", img: "https://picsum.photos/seed/donut11/300/200" }
+            { id: 'c5', name: "Cheese Meses", price: 11000, desc: "Glaze gula original dengan meses cokelat dan keju parut.", img: "wmremove-transformed_4_20260128_0 82811_0000.jpg" },
+            { id: 'c6', name: "Choco Cashew", price: 16000, desc: "Glaze cokelat tebal dengan kacang mete dan remahan oreo.", img: "wmremove-transformed_6_20260128_0 82911_0000.jpg" },
+            { id: 'c7', name: "White Berry", price: 15000, desc: "Glaze cokelat putih manis dengan oreo dan stroberi segar.", img: "wmremove-transformed_5_20260128_0 82819_0000.jpg" },
+            { id: 'c8', name: "Banana Split", price: 13000, desc: "Glaze stroberi dengan potongan pisang dan sprinkles ceria.", img: "wmremove-transformed_7_20260128_0 82916_0000.jpg" },
+            { id: 'c9', name: "Blueberry Crunch", price: 13500, desc: "Glaze blueberry asam manis dengan sereal dan white choco chips.", img: "wmremove-transformed_3_20260128_0 82748_0000.jpg" },
+            { id: 'c10', name: "Salted Caramel Pecan", price: 16000, desc: "Caramel asin gurih dengan kacang mete dan choco chips.", img: "wmremove-transformed_1_20260128_0 82716_0000.jpg" },
+            { id: 'c11', name: "Double Cheese", price: 15000, desc: "Double keju (glaze & parut) dengan topping oreo crunchy.", img: "wmremove-transformed_2_20260128_0 82742_0000.jpg" }
         ];
 
         const GLAZES = [
