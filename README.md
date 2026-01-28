@@ -372,7 +372,7 @@ input:checked + .slider:before { transform: translateX(20px); }
         { id: 2, name: "Berrybliss", name_en: "Berrybliss", name_zh: "巧克力巧脆珠", price: 10000, img: "berrybliss.jpg", desc: "Glaze berry dan buah berry segar manis.", desc_en: "Berry glaze and sweet fresh berries.", desc_zh: "比利时巧克力配彩色脆珠。" },
         { id: 3, name: "Matcha Crunch", name_en: "Almond Crunch", name_zh: "杏仁脆片", price: 12000, img: "matchaalmond.jpg", desc: "Kepingan almond renyah di atas glaze.", desc_en: "Crunchy almond slices on glaze.", desc_zh: "糖衣上的脆杏仁片。" },
         { id: 4, name: "Tiramisu", name_en: "Tiramisu", name_zh: "提拉米苏", price: 15000, img: "tiramisu.jpg", desc: "Rasa kopi premium dengan krim lembut.", desc_en: "Premium coffee taste with soft cream.", desc_zh: "优质咖啡味配柔软奶油。" },
-        { id: 5, name: "Coklat Putih Berry", name_en: "White Choco Berry", name_zh: "草莓爆发", price: 12000, img: "whitechocateberry.jpg", desc: "Coklat Putih yang creamy dipadukan dengan buah berry segar yang segar.", desc_en: "Creamy White Chocolate combined with fresh fresh berries. ", desc_zh: "新鲜真实草莓酱。" },
+        { id: 5, name: "Coklat Putih Berry", name_en: "White Choco Berry", name_zh: "草莓爆发", price: 12000, img: "whitechocolateberry.jpg", desc: "Coklat Putih yang creamy dipadukan dengan buah berry segar yang segar.", desc_en: "Creamy White Chocolate combined with fresh fresh berries. ", desc_zh: "新鲜真实草莓酱。" },
         { id: 6, name: "Keju Berlipat", name_en: "Double Cheese", name_zh: "奶酪小口", price: 11000, img: "doublecheese.jpg", desc: "Keju gurih yang nikmat di setiap gigitan.", desc_en: "Delicious savory cheese in every bite", desc_zh: "每一口都有咸融奶酪。" },
     ];
 
